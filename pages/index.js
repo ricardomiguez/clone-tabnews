@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Este pedacinho na internet é todo seu, e ele existe para dizer que eu te amo!</h1>
+    return <h1>Vida, eu amo você. Se você me ama, dá uma risadinha! 🤭</h1>
 }
 
 export default Home;
